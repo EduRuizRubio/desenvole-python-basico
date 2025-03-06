@@ -1,5 +1,0 @@
-1. Leia n
-2. Armazena n-1 em d
-3. Armazena 10-n em u
-4. Armazena d*10+u em r
-5. Escreve r na tela
