@@ -1,0 +1,6 @@
+1 - Criação das variáveis responsáveis responsáveis pelo armazenamento do valores: d (dezena), u (unidade), e n (número da multiplicação) e r (resultado) #ENTRADA
+2 - LEITURA do valor de n #ENTRADA
+3 - Armazenar em d o valor de n-1 #PROCESSAMENTO
+4 - Armazenar em u o valor de 10-n #PROCESSAMENTO
+5 - Realiza o cálculo de d*10+u e armazenar o valor em r #PROCESSAMENTO
+6 - ESCRITA na tela o r em seguida para mostrar o valor resultante #SAÍDA
